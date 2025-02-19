@@ -34,7 +34,7 @@
 }
 
 .searchBar:focus {
-  border: 1px solid rgb(232, 227, 227);
+  border: 1px solid rgb(232, 227, 277);
   background: none;
   outline: none;
 }
